@@ -3,4 +3,8 @@ For start program use loader, the program will be activated already.
    
          
       
-java -noverify -javaagent:burploader.jar -jar burpsuite_pro_v2021.9.1.jar
+java -noverify -javaagent:burploader.jar -jar burpsuite_pro_v2022.6.1.jar (now latest version)
+
+
+Go To https://portswigger.net/burp/releases/professional/latest    
+And Download Jar File(Support All OS)
