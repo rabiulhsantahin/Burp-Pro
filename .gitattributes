@@ -1,0 +1,5 @@
+burpsuite_pro_v2022.8.4.jar filter=lfs diff=lfs merge=lfs -text
+BurpSuitePro.bat filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+burploader.jar filter=lfs diff=lfs merge=lfs -text
+burpsuite_pro.jar filter=lfs diff=lfs merge=lfs -text
